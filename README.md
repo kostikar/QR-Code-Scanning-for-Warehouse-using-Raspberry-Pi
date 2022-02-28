@@ -1,8 +1,6 @@
 # Barcode-Scanning-for-Warehouse-using-Fin-Raspberry-Pi
 As part of my (one-month) labs residency project I’m just reaching out to see whether someone has already done something similar before or has any suggestions/useful information regarding this project. :slight_smile:
 
-*Note that I’m not familiar with coding - creating blocks but if it’s something not that complicated for this project I can use tutorials to do so or use existing code and then push it to the device using CLI.
-
 Basically the idea is to design and create an affordable WMS system for businesses that cannot afford an actual WMS system/ERP system and maybe try it out here in Balena’s warehouse after the project is over or at some point in the future.
 
 Here’s a quick overview of what the devices using blocks will hopefully be able to do:
@@ -20,7 +18,8 @@ After completing the above mentioned scans the data will be imported to an excel
 
 We have the following hardware available here at the office but feel free to recommend other if needed:
 
-Balena Fin/Raspberry Pi 4
+Raspberry Pi 4 (running Raspberry OS)
 3.5” Touch Screen
-Camera module for Fin/Pi 4
-16GB MicroSD memory card
+Raspberry Pi HQ Camera
+Raspeberry Pi Camera Lens
+MicroSD Card Extreme Pro
