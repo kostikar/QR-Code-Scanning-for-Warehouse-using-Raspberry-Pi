@@ -1,7 +1,5 @@
 # Barcode-Scanning-for-Warehouse-using-Fin-Raspberry-Pi
-As part of my (one-month) labs residency project I’m just reaching out to see whether someone has already done something similar before or has any suggestions/useful information regarding this project. :slight_smile:
-
-Basically the idea is to design and create an affordable WMS system for businesses that cannot afford an actual WMS system/ERP system and maybe try it out here in Balena’s warehouse after the project is over or at some point in the future.
+As part of my labs residency project to design and create an affordable WMS system for businesses that cannot afford an actual WMS system/ERP system and maybe try it out here in Balena’s warehouse after the project is over or at some point in the future.
 
 Here’s a quick overview of what the devices using blocks will hopefully be able to do:
 
