@@ -21,3 +21,4 @@ Raspberry Pi 4 (running Raspberry OS)
 Raspberry Pi HQ Camera
 Raspeberry Pi Camera Lens
 MicroSD Card Extreme Pro
+
